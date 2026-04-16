@@ -38,5 +38,5 @@ I want to build projects that make common tasks and processes easier and more ef
 ## Contact
 
 - 📫 Email: samuel.dennehy.2026@mumail.ie
-- 💼 LinkedIn: [text](https://www.linkedin.com/in/sam-dennehy-759437402/)
+- 💼 LinkedIn: [Sam Dennehy](https://www.linkedin.com/in/sam-dennehy-759437402/)
 <!-- - 🌐 Portfolio (optional): [Portfolio URL] -->
