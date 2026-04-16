@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Sam Dennehy 👋
 
-<!--
-**SamDennehy/SamDennehy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student at Maynooth University currently studying **Computer Science and Software Engineering**.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Current Course:** Computer Science and Software Engineering
+- 📍 **Location:** Dublin, Ireland
+- 💬 **Pronouns:** He/Him
+
+## Languages and Tools I Am Learning
+
+### Languages
+- Python
+- JavaScript
+- Java
+
+
+### Tools and Technologies
+- Flask
+- Copilot
+
+## Interests
+
+- Full Stack Software Development
+- Video Game Development
+
+## Projects I Want to Build
+
+I want to build projects that make common tasks and processes easier and more efficient.
+
+## Current Focus
+
+- 🔭 Working on: Warhammer 40k Army List Builder
+- 🌱 Learning: JavaScript/Databases
+<!-- - 👯 Open to collaborate on: -->
+
+## Contact
+
+- 📫 Email: samuel.dennehy.2026@mumail.ie
+- 💼 LinkedIn: [text](https://www.linkedin.com/in/sam-dennehy-759437402/)
+<!-- - 🌐 Portfolio (optional): [Portfolio URL] -->
