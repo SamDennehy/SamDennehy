@@ -57,7 +57,7 @@ A web-based tool to help players build and manage valid army lists more efficien
 
 ## 📫 Contact
 
-* 📧 [samuel.dennehy.2026@mumail.ie](mailto:samuel.dennehy.2026@mumail.ie)
+* 📧 Email: [samuel.dennehy.2026@mumail.ie](mailto:samuel.dennehy.2026@mumail.ie)
 * 💼 LinkedIn: https://www.linkedin.com/in/sam-dennehy-759437402/
 
 ---
