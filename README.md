@@ -43,7 +43,6 @@ A web-based tool to help players build and manage valid army lists more efficien
 ## 🌱 Currently Learning
 
 * JavaScript (deeper frontend + async features)
-* Databases (SQL and data modeling)
 
 ---
 
